@@ -21,7 +21,5 @@ class secondViewController: UIViewController {
         receiveMessage.text = passMessage
         // Do any additional setup after loading the view.
     }
-    
 }
-
 // done
